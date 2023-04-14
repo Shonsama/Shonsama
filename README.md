@@ -3,6 +3,7 @@
 - 🏢 Cities i have been for more than 1 year: Zhenjiang -> Shenyang -> Dalian -> Shanghai -> Suzhou -> Singapore -> ?
 - 🌱 Frontend Skill Set: React/Vue/Angular
 - 🔭 Backend Skill Set: Go/Python/Redis/Kafka/Distributed System/BlockChian
+- 🌐 Language: Chinese(Native),English(Advanced),Japanese(Intermediate)
 - 📫 How to reach me: Shuwanyang@outlook.com
 - ✍️ Blog: [ShuWa](https://shuwa-9775.xlog.app/)
 
