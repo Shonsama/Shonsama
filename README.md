@@ -1,7 +1,7 @@
 # Hi there 👋, this is Shu Wanyang
 - 💻 Work as Frontend Engineer before, Now try to do something more.
 - 🏢 Cities i have been for more than 1 year: Zhenjiang -> Shenyang -> Dalian -> Shanghai -> Suzhou -> Singapore -> ?
-- 🌱 Frontend Skill Set: React/Vue/angular
+- 🌱 Frontend Skill Set: React/Vue/Angular
 - 🔭 Backend Skill Set: Go/Python/Redis/Kafka/Distributed System/BlockChian
 - 📫 How to reach me: Shuwanyang@outlook.com
 ## &#x1f4c8; GitHub Stats
