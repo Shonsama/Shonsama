@@ -4,6 +4,8 @@
 - 🌱 Frontend Skill Set: React/Vue/Angular
 - 🔭 Backend Skill Set: Go/Python/Redis/Kafka/Distributed System/BlockChian
 - 📫 How to reach me: Shuwanyang@outlook.com
+- ✍️ Blog:[ShuWa](https://shuwa-9775.xlog.app/)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/luqinwen">
