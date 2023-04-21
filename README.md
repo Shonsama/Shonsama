@@ -4,8 +4,8 @@
 - 🌱 Frontend Skill Set: React/Vue/Angular
 - 🔭 Backend Skill Set: Go/Python/Redis/Kafka/Distributed System/BlockChian
 - 🌐 Language: Chinese(Native), English(Advanced), Japanese(Intermediate)
-- 📫 How to reach me: Shuwanyang@outlook.com
-- ✍️ Blog: [ShuWa](https://shuwa-9775.xlog.app/)
+- 📫 How to reach me: shuwanyang@outlook.com
+- ✍️ Blog: [Wayne-soh](https://shuwa-9775.xlog.app/)
 
 ## &#x1f4c8; GitHub Stats
 
