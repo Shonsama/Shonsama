@@ -2,7 +2,7 @@
 - 💻 Work as Frontend Engineer before, Now try to do something more.
 - 🏢 Cities i have been for more than 1 year: Zhenjiang -> Shenyang -> Dalian -> Shanghai -> Suzhou -> Singapore -> ?
 - 🌱 Frontend Skill Set: React/Vue/Angular
-- 🔭 Backend Skill Set: Go/Python/Redis/Kafka/Distributed System/BlockChian
+- 🔭 Backend Skill Set: Go/Python/Redis/Kafka
 - 🌐 Language: Chinese(Native), English(Advanced), Japanese(Intermediate)
 - 📫 How to reach me: shuwanyang@outlook.com
 - ✍️ Blog: [Wayne-soh](https://shuwa-9775.xlog.app/)
