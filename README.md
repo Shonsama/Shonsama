@@ -5,7 +5,7 @@
 - 🔭 Backend Skill Set: Go/Python/Redis/Kafka
 - 🌐 Language: Chinese(Native), English(Advanced), Japanese(Intermediate)
 - 📫 How to reach me: shuwanyang@outlook.com
-- ✍️ Blog: [Wayne-soh](https://shuwa-9775.xlog.app/)
+- ✍️ Blog: [Wayne-soh](http://www.blog.waynesoh.top/)
 
 ## &#x1f4c8; GitHub Stats
 
